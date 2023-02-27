@@ -1,20 +1,22 @@
-#Netflix Clone
+Neflix Clone
 
-In the project directory, you can run:
+TweetWorld 
 
-### `npm start`
+An project used to boost my knowledge.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Installation:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+`npm install`  
 
-### `npm test`
+To Run Test Suite:  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm test`  
 
-### `npm run build`
+To Start Server:
 
-Builds the app for production to the `build` folder.
+`npm start`  
+
+To Visit App:
+
+`localhost:3000/`  
+
